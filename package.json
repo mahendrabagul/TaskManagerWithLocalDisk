@@ -26,7 +26,11 @@
     "node-uuid":"~1.4.3",
     "passport":"~0.2.1",
     "passport-local":"~1.0.0",
-    "bcrypt":"~0.8.2"
+    "bcrypt":"~0.8.2",
+    "passport-github":"",
+    "passport-facebook":"",
+    "passport-google-oauth":"",
+    "passport-twitter":""
   },
   "scripts": {
     "start": "node app.js",
